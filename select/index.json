@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "螺旋階段",
+  "base_artist": "石狩あかり",
+  "createdAt": "2026-03-04T09:06:58.387471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "06 螺旋階段",
+      "artist": "りどしぇいく",
+      "has_synced": true,
+      "path": "select/01_06_螺旋階段_りどしぇいく.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "螺旋階段",
+      "artist": "石狩あかり",
+      "has_synced": false,
+      "path": "select/pl_01_螺旋階段_石狩あかり.txt"
+    }
+  ]
+}
